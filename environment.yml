@@ -1,0 +1,11 @@
+name: autonomous-car
+dependencies:
+    - python
+    - numpy
+    - matplotlib
+    - jupyter
+    - scikit-learn
+    - pip:
+        - pygame
+        - pyserial
+        - opencv
